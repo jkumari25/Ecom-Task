@@ -1,0 +1,7 @@
+export {default as slideImage1 } from "./slideImage1.webp"
+export {default as slideImage2} from "./slideImage2.webp"
+export {default as track} from "./track.svg"
+export {default as creditcard } from "./creditcard.svg"
+export {default as money } from "./money.svg"
+export {default as banner2} from "./banner2.webp"
+export {default as banner1} from "./banner1.webp"
